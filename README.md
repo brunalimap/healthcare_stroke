@@ -21,17 +21,17 @@ Este conjunto de dados é usado para prever se um paciente tem probabilidade de 
 ## 3.0 Estratégia de Solução
 Minha estratégia para resolver esse desafio foi:
 
-**Etapa 01.** Coleta dos dados: Nesta etapa o objetivo coletar os dados do kaggle.
-**Etapa 02.** Descrição dos dados: Nesta estapa o objetivo é usar métricas estatísticas para identificar dados fora do escopo do negócio
-**Etapa 03.** Feature Engineering: Derivar novos atributos com base nas variáveis originais para descrever melhor o fenômeno que será modelado
-**Etapa 04.** Filtragem de Dados: Filtrar as linhas e selecione as colunas que não contenham informações para modelagem que não correspondam ao escopo
-**Etapa 05.** Análise Exploratória de Dados: Para esta etapa o objetivo é explorar os dados para entender melhor o impacto das variáveis no aprendizado do modelo e encontrar insights.
-**Etapa 06.** Preparação dos Dados: Prepare os dados para que os modelos de aprendizados de máquina possam aprender o comportamento específico.
-**Etapa 07.** Seleção de Recursos: Seleção dos atributos mais significativos para treinar o modelo.
-**Etapa 08.** Machine Learning: Treinamento de Machine Learning.
-**Etapa 09.** Hyperparamenter Fine Tunning: Escolha os melhores valores para cada um dos parâmetros do modelo selecionado na etapa anterior.
-**Etapa 10.** Interpletação do desempenho do modelo em valores de negócios: converta o desempenho do modelo de aprendizado de máquina em um resultado de negócios.
-**Etapa 11.** Deploy do modelo: Publicar o modelo em um ambiente de nuvem para que outras pessoas ou serviços possam usar os resultados para melhorar a decisão de negócios.
+- **Etapa 01.** Coleta dos dados: Nesta etapa o objetivo coletar os dados do kaggle.
+- **Etapa 02.** Descrição dos dados: Nesta estapa o objetivo é usar métricas estatísticas para identificar dados fora do escopo do negócio
+- **Etapa 03.** Feature Engineering: Derivar novos atributos com base nas variáveis originais para descrever melhor o fenômeno que será modelado
+- **Etapa 04.** Filtragem de Dados: Filtrar as linhas e selecione as colunas que não contenham informações para modelagem que não correspondam ao escopo
+- **Etapa 05.** Análise Exploratória de Dados: Para esta etapa o objetivo é explorar os dados para entender melhor o impacto das variáveis no aprendizado do modelo e encontrar insights.
+- **Etapa 06.** Preparação dos Dados: Prepare os dados para que os modelos de aprendizados de máquina possam aprender o comportamento específico.
+- **Etapa 07.** Seleção de Recursos: Seleção dos atributos mais significativos para treinar o modelo.
+- **Etapa 08.** Machine Learning: Treinamento de Machine Learning.
+- **Etapa 09.** Hyperparamenter Fine Tunning: Escolha os melhores valores para cada um dos parâmetros do modelo selecionado na etapa anterior.
+- **Etapa 10.** Interpletação do desempenho do modelo em valores de negócios: converta o desempenho do modelo de aprendizado de máquina em um resultado de negócios.
+- **Etapa 11.** Deploy do modelo: Publicar o modelo em um ambiente de nuvem para que outras pessoas ou serviços possam usar os resultados para melhorar a decisão de negócios.
 
 # 4.0 O conjunto de dados
 
