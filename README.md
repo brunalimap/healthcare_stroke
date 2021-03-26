@@ -35,23 +35,23 @@ Minha estratégia para resolver esse desafio foi:
 
 # 4.0 O conjunto de dados
 
-<b>id:</b> identificador único
-<b>gênero:</b> "Masculino", "Feminino" ou "Outro"
-<b>idade:</b> idade do paciente
-<b>hipertensão:</b> 0 se o paciente não tem hipertensão, 1 se o paciente tem hipertensão
-<b>doença cardíaca:</b> 0 se o paciente não tem doenças cardíacas, 1 se o paciente tem doença cardíaca
-<b>nunca_casou:</b> "Não" ou "Sim"
-<b>work_type:</b> "filhos", "Govt_jov", "Nunca_trabalhou", "Privado" ou "Autônomo"
-<b>Residence_type:</b> "Rural" ou "Urbano"
-<b>avg_glucose_level:</b> nível médio de glicose no sangue
-<b>bmi:</b> índice de massa corporal
-<b>smoking_status:</b> "anteriormente fumado", "nunca fumado", "fuma" ou "Desconhecido" *
-<b>AVC:</b> 1 se o paciente teve um AVC ou 0 se não
+- <b>id:</b> identificador único
+- <b>gênero:</b> "Masculino", "Feminino" ou "Outro"
+- <b>idade:</b> idade do paciente
+- <b>hipertensão:</b> 0 se o paciente não tem hipertensão, 1 se o paciente tem hipertensão
+- <b>doença cardíaca:</b> 0 se o paciente não tem doenças cardíacas, 1 se o paciente tem doença cardíaca
+- <b>nunca_casou:</b> "Não" ou "Sim"
+- <b>work_type:</b> "filhos", "Govt_jov", "Nunca_trabalhou", "Privado" ou "Autônomo"
+- <b>Residence_type:</b> "Rural" ou "Urbano"
+- <b>avg_glucose_level:</b> nível médio de glicose no sangue
+- <b>bmi:</b> índice de massa corporal
+- <b>smoking_status:</b> "anteriormente fumado", "nunca fumado", "fuma" ou "Desconhecido" *
+- <b>AVC:</b> 1 se o paciente teve um AVC ou 0 se não
 
-<b>Nota: "Desconhecido" em smoking_status significa que a informação não está disponível para este paciente.</b>
+- <b>Nota: "Desconhecido" em smoking_status significa que a informação não está disponível para este paciente.</b>
 
 # 5.0 Referências
 
-[Fatores de Risco](http://www.redebrasilavc.org.br/para-pacientes-e-falimiares/fatores-de-risco/)
-[Hábitos para prevenir acidentes Vascular Cerebral](https://planin.com/sbn-recomenda-mudanca-de-habitos-para-prevenir-acidente-vascular-cerebral-avc/)
-[5 Hábitos que favorecem o AVC](https://coris.med.br/5-habitos-que-favorecem-o-avc/)
+- [Fatores de Risco](http://www.redebrasilavc.org.br/para-pacientes-e-falimiares/fatores-de-risco/)
+- [Hábitos para prevenir acidentes Vascular Cerebral](https://planin.com/sbn-recomenda-mudanca-de-habitos-para-prevenir-acidente-vascular-cerebral-avc/)
+- [5 Hábitos que favorecem o AVC](https://coris.med.br/5-habitos-que-favorecem-o-avc/)
